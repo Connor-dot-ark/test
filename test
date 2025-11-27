@@ -1,0 +1,32 @@
+{
+  "dinoMappings": [
+    {
+      "fromClass": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Therizino/ARKOLOGY_Therizino_Character_BP.ARKOLOGY_Therizino_Character_BP",
+      "toClass": "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP"
+    },
+    {
+      "fromClass": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/LanternBird/ARKOLOGY_LanternBird_Character_BP.ARKOLOGY_LanternBird_Character_BP",
+      "toClass": "/Game/Aberration/Dinos/LanternBird/LanternBird_Character_BP.LanternBird_Character_BP"
+    },
+    {
+      "fromClass": "/ARKOLOGY_NEWENCOUNTERS/ARKOLOGY/Variants/Parasaur/ARKOLOGY_Para_Character_BP.ARKOLOGY_Para_Character_BP",
+      "toClass": "/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP"
+    },
+    {
+      "fromClass": "/Gigantoraptor/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP"
+    },
+    {
+      "fromClass": "/AAArchelon/Dinos/ArchelonAA_Character_BP.ArchelonAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA"
+    },
+    {
+      "fromClass": "/AADeinotherium/Dinos/DeinotheriumAA_Character_BP.DeinotheriumAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP"
+    },
+    {
+      "fromClass": "/AAHelicoprion/Dinos/HelicoprionAA_Character_BP.HelicoprionAA_Character_BP_C",
+      "toClass": "/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP"
+    },
+  ]
+}
