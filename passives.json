@@ -33,7 +33,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/NoUntameables/Eurypterid/Euryp_Character_Tameable.Euryp_Character_Tameable_BP",
+            "dinoType": "/NoUntameables/Eurypterid/Euryp_Character_Tameable.Euryp_Character_Tameable_BP",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -75,7 +75,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/NoUntameables/Eurypterid/Euryp_Character_Aberrant_Tameable.Euryp_Character_Aberrant_Tameable",
+            "dinoType": "/NoUntameables/Eurypterid/Euryp_Character_Aberrant_Tameable.Euryp_Character_Aberrant_Tameable",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -273,7 +273,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/PA_Plus_Pack_01/Dinos/ObeliskSquid/PA_Obelisksquid_Character_BP.PA_Obelisksquid_Character_BP",
+            "dinoType": "/PA_Plus_Pack_01/Dinos/ObeliskSquid/PA_Obelisksquid_Character_BP.PA_Obelisksquid_Character_BP",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -297,7 +297,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/PA_Plus_Pack_01/Dinos/ObeliskSquid/Aberrant/PA_Aberrant_Obelisksquid_Character_BP.PA_Aberrant_Obelisksquid_Character_BP",
+            "dinoType": "/PA_Plus_Pack_01/Dinos/ObeliskSquid/Aberrant/PA_Aberrant_Obelisksquid_Character_BP.PA_Aberrant_Obelisksquid_Character_BP",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -321,7 +321,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/PA_Plus_Pack_01/Dinos/Cryptoclidus/PA_Cryptoclidus_Character_BP.PA_Cryptoclidus_Character_BP",
+            "dinoType": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/PA_Cryptoclidus_Character_BP.PA_Cryptoclidus_Character_BP",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -329,7 +329,7 @@
                     "itemSelectMode": 0,
                     "items": [
                         {
-                            "bpPath": "/Game/Mods//PA_Plus_Pack_01/Dinos/Cryptoclidus/Items/PrimalItemResource_CryptoGel.PrimalItemResource_CryptoGel",
+                            "bpPath": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/Items/PrimalItemResource_CryptoGel.PrimalItemResource_CryptoGel",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 1000,
                             "quantityPerDino": 1,
@@ -337,7 +337,7 @@
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
-                            "consumesItemsChance": 0,
+                            "consumesItemsChance": 1.0,
                             "consumesItems": [
                                 {
                                     "bpPath": "/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil",
@@ -352,7 +352,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/PA_Plus_Pack_01/Dinos/Cryptoclidus/Aberrant/PA_Aberrant_Cryptoclidus_Character_BP.PA_Aberrant_Cryptoclidus_Character_BP",
+            "dinoType": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/Aberrant/PA_Aberrant_Cryptoclidus_Character_BP.PA_Aberrant_Cryptoclidus_Character_BP",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -360,7 +360,7 @@
                     "itemSelectMode": 0,
                     "items": [
                         {
-                            "bpPath": "/Game/Mods//PA_Plus_Pack_01/Dinos/Cryptoclidus/Items/PrimalItemResource_CryptoGel.PrimalItemResource_CryptoGel",
+                            "bpPath": "/PA_Plus_Pack_01/Dinos/Cryptoclidus/Items/PrimalItemResource_CryptoGel.PrimalItemResource_CryptoGel",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 1000,
                             "quantityPerDino": 1,
@@ -368,7 +368,7 @@
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
-                            "consumesItemsChance": 0,
+                            "consumesItemsChance": 1.0,
                             "consumesItems": [
                                 {
                                     "bpPath": "/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil",
@@ -459,7 +459,7 @@
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
                             "comsumesSelectMode": 0,
-                            "consumesItemsChance": 0,
+                            "consumesItemsChance": 1.0,
                             "consumesItems": [
                                  {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower",
@@ -536,7 +536,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/NoUntameables/Cnidaria/Cnidaria_Character_BP_Tameable.Cnidaria_Character_BP_Tameable",
+            "dinoType": "/NoUntameables/Cnidaria/Cnidaria_Character_BP_Tameable.Cnidaria_Character_BP_Tameable",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -560,7 +560,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/NoUntameables/Cnidaria/Cnidaria_Character_BP_Aberrant_Tameable.Cnidaria_Character_BP_Aberrant_Tameable",
+            "dinoType": "/NoUntameables/Cnidaria/Cnidaria_Character_BP_Aberrant_Tameable.Cnidaria_Character_BP_Aberrant_Tameable",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -584,7 +584,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/NoUntameables/Ammonite/Ammonite_Character_Tameable.Ammonite_Character_Tameable",
+            "dinoType": "/NoUntameables/Ammonite/Ammonite_Character_Tameable.Ammonite_Character_Tameable",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -608,7 +608,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/NoUntameables/Ammonite/Ammonite_Character_Aberrant_Tameable.Ammonite_Character_Aberrant_Tameable",
+            "dinoType": "/NoUntameables/Ammonite/Ammonite_Character_Aberrant_Tameable.Ammonite_Character_Aberrant_Tameable",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -632,7 +632,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/ATBombardierBeetle/BombardierBeetle/BombardierBeetle_Character_BP.BombardierBeetle_Character_BP",
+            "dinoType": "/ATBombardierBeetle/BombardierBeetle/BombardierBeetle_Character_BP.BombardierBeetle_Character_BP",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -640,7 +640,7 @@
                     "itemSelectMode": 0,
                     "items": [
                         {
-                            "bpPath": "/Game/Mods/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItemResource_SuspiciouslyGreenGunpowder.PrimalItemResource_SuspiciouslyGreenGunpowder",
+                            "bpPath": "/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItemResource_SuspiciouslyGreenGunpowder.PrimalItemResource_SuspiciouslyGreenGunpowder",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 1000,
                             "quantityPerDino": 1,
@@ -656,7 +656,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/ATBombardierBeetle/BombardierBeetle/BombardierBeetle_Character_BP_Flame.BombardierBeetle_Character_BP_Flame",
+            "dinoType": "/ATBombardierBeetle/BombardierBeetle/BombardierBeetle_Character_BP_Flame.BombardierBeetle_Character_BP_Flame",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -664,7 +664,7 @@
                     "itemSelectMode": 0,
                     "items": [
                         {
-                            "bpPath": "/Game/Mods/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItermResource_ConspicuouslyBluePropellant.PrimalItermResource_ConspicuouslyBluePropellant",
+                            "bpPath": "/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItermResource_ConspicuouslyBluePropellant.PrimalItermResource_ConspicuouslyBluePropellant",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 1000,
                             "quantityPerDino": 1,
@@ -680,7 +680,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/ATBombardierBeetle/BombardierBeetle/BombardierBeetle_Character_BP_Chemical.BombardierBeetle_Character_BP_Chemical",
+            "dinoType": "/ATBombardierBeetle/BombardierBeetle/BombardierBeetle_Character_BP_Chemical.BombardierBeetle_Character_BP_Chemical",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -688,7 +688,7 @@
                     "itemSelectMode": 0,
                     "items": [
                         {
-                            "bpPath": "/Game/Mods/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItemResource_OddlyYellowedGasball.PrimalItemResource_OddlyYellowedGasball",
+                            "bpPath": "/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItemResource_OddlyYellowedGasball.PrimalItemResource_OddlyYellowedGasball",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 200,
                             "quantityPerDino": 1,
